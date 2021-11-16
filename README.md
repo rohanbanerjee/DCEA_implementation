@@ -1,7 +1,7 @@
 # [Do CNNs Encode Augmentations?](https://arxiv.org/pdf/2003.08773.pdf)
 By Dr. Eddie Yan and Dr. Yanping Huang
 
-#### This is an unofficial implementation of the above paper by [Sourav Sharan](https://github.com/SouravSharan) and me. 
+#### This is an unofficial tensorflow implementation of the above paper by [Sourav Sharan](https://github.com/SouravSharan) and me. 
 ###### The code implementation can found in the form of a jupyter notebook.
 
 ## Absract
